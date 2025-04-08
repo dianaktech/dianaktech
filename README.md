@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Networking</b>
-  - [Secure Network Simulation-Cisco Packet Tracer](https://github.com/joshmadakor1/Algorithms-Practice)
-   - [Enterprise Network Simulation with VLAN Segmentation – Cisco Packet Tracer](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Secure Network Simulation/Enterprise Network Simulation with VLAN Segmentation](https://github.com/dianaktech/Secure-EntrepriseNetwork/tree/main)
+
 - <b>SIEM</b>
 
 
