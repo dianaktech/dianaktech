@@ -6,7 +6,7 @@
   - [Secure Network Simulation/Enterprise Network Simulation with VLAN Segmentation](https://github.com/dianaktech/Secure-EntrepriseNetwork/tree/main)
 
 - <b>SIEM</b>
-  - [Splunk SIEM Lab](https://github.com/dianaktech/Secure-EntrepriseNetwork/tree/main)
+  - [Splunk SIEM Lab](https://github.com/dianaktech/splunk-siem-lab)
 
 https://github.com/dianaktech/splunk-siem-lab
  
