@@ -7,8 +7,9 @@
 
 - <b>SIEM</b>
   - [Splunk SIEM Lab](https://github.com/dianaktech/splunk-siem-lab)
+  - [AZURE SOC](https://github.com/dianaktech/splunk-siem-lab)  <b>- Azure SIEM Lab. Setting up a Honeypot to analyze real world attack data</b>
+ 
 
-https://github.com/dianaktech/splunk-siem-lab
  
 
 <h2>📜 Certifications</h2>
