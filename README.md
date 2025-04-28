@@ -1,6 +1,6 @@
-<h1>Hi, I'm Diana Kelsch! <br/> <a href="https://www.linkedin.com/in/diana-kelsch-26224610b/">Cybersecurity Professional</a>  <a href="https://www.linkedin.com/in/diana-kelsch-26224610b/ ">
+<h1>Hi, I'm Diana Kelsch! <br/> <a href="https://www.linkedin.com/in/diana-kelsch-26224610b/">IT Professional</a>  <a href="https://www.linkedin.com/in/diana-kelsch-26224610b/ ">
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity & IT Support Projects:</h2>
 
 - <b>SIEM</b>
   - [AZURE SOC](https://github.com/dianaktech/AZURE-SOC-Lab)  <b>- Azure SIEM Lab. Setting up a Honeypot to analyze real world attack data</b>
