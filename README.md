@@ -5,7 +5,10 @@
 - <b>SIEM</b>
   - [AZURE SOC](https://github.com/dianaktech/AZURE-SOC-Lab)  <b>- Azure SIEM Lab. Setting up a Honeypot to analyze real world attack data</b>
   - [Splunk SIEM Lab](https://github.com/dianaktech/splunk-siem-lab)
-   
+ 
+ - <b>IT Infrastructure</b>
+ 
+   - [Active Directory & GPO](https://github.com/dianaktech/Active-Directory-Lab)  <b>- Set up Windows Server environment to explore key Active Directory (AD) and Group Policy Object (GPO) concepts</b>
 
 - <b>Networking</b>
   - [Secure Network Simulation/Enterprise Network Simulation with VLAN Segmentation](https://github.com/dianaktech/Secure-EntrepriseNetwork/tree/main)
