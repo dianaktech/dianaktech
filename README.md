@@ -3,16 +3,22 @@
 <h2>👨‍💻 Cybersecurity & IT Support Projects:</h2>
 
 - <b>SIEM</b>
-  - [AZURE SOC](https://github.com/dianaktech/AZURE-SOC-Lab)  <b>- Azure SIEM Lab. Setting up a Honeypot to analyze real world attack data</b>
+  - [AZURE SOC](https://github.com/dianaktech/AZURE-SOC-Lab)  <b>- Azure SIEM Lab. Setting up a Honeypot to analyze real world attack data.</b>
+
+- <b>Linux</b>
+ 
+   - [File permissions in Linux](https://github.com/dianaktech/Linux-Bash-Shell-)  <b>-  Using Linux Bash Shell commands to configure authorization.</b>
+
+ - <b>SQL</b>
+ 
+   - [Applying Filters to SQL queries](https://github.com/dianaktech/SQL-Queries)  <b>- Using SQL filters to retrieve records from different datasets and investigate potential security issues.</b>
  
  - <b>IT Infrastructure</b>
  
-   - [Active Directory & GPO](https://github.com/dianaktech/Active-Directory-Lab)  <b>- Set up Windows Server environment to explore key Active Directory (AD) and Group Policy Object (GPO) concepts</b>
+   - [Active Directory & GPO](https://github.com/dianaktech/Active-Directory-Lab)  <b>- Set up Windows Server environment to explore key Active Directory (AD) and Group Policy Object (GPO) concepts.</b>
 
 
- - <b>Linux</b>
- 
-   - [File permissions in Linux](https://github.com/dianaktech/Linux-Bash-Shell-)  <b>-  Using Linux Bash Shell commands to configure authorization.</b>
+
 
 
  
